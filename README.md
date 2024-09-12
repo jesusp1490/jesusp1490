@@ -1,6 +1,6 @@
 <div style="background-color: black">
 <h1 align="center">Hi, I'm Yisus</h1>
-<h3 align="center">A Junior Full Stack Developer!</h3>
+<h3 align="center"> Full Stack Developer!</h3>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusp1490&label=Profile%20views&color=0e75b6&style=flat" alt="jesusp1490" /> </p>
 
