@@ -75,23 +75,6 @@ Beer discovery platform where users can explore beers, filter by country, brand,
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jesusp1490&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusp1490&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jesusp1490&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
----
-
 ## Currently improving
 
 - Advanced React and Next.js patterns
