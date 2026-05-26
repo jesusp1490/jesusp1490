@@ -75,21 +75,6 @@ Beer discovery platform where users can explore beers, filter by country, brand,
 
 ---
 
-### Dinbog Blog
-
-Multilingual blog platform with separated frontend/backend architecture, content management and media handling.
-
-- Next.js
-- Node.js
-- Express
-- MongoDB
-- Cloudinary
-- i18n
-
-[Repository](https://github.com/jesusp1490/dinbog-blog)
-
----
-
 ## GitHub Stats
 
 <p align="center">
